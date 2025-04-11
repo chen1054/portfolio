@@ -71,7 +71,7 @@ footer a {
 
 .fs-3 {
     font-size: 2.6rem !important;
-    color: #409BFF;
+   
     font-weight: bold;
 }
 
@@ -82,7 +82,7 @@ footer a {
 }
 
 .fs-5 {
-    font-size: 0.9rem;
+    font-size: 1.4rem !important;
 }
 
 .fs-6 {
@@ -254,9 +254,7 @@ footer a {
         transform: scale(0.7);
       }
 
-    .about-image {
-      transform: scale(0.9);
-    }
+   
 
     /* 缩放背景图大小，跟随图片缩放 */
     .about-image::after {
@@ -324,3 +322,25 @@ footer a {
 
 /* ---------------------------------------------------------------- */
 
+@media (max-width: 767px) {
+
+    .heading-title-2 {
+        transform: scale(0.8);
+      }
+
+}
+
+.hobby-img {
+  border-radius: 15px;
+  max-width: 90%; 
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.hobby-section {
+    background: linear-gradient(to bottom, rgb(255, 255, 255), rgb(134, 186, 242), rgb(255, 255, 255));
+  } 
+  
