@@ -97,7 +97,7 @@ footer a{
   border: 2px solid #409BFF;
   background-color: rgba(71, 142, 248, 0.068); /* 可选，增加轻微背景感 */
   padding: 6px 12px; /* 控制文字与边框的间距：上下6px，左右12px */
-  border-radius: 2px; /* 可选，圆角更好看 */
+  border-radius: 5px; /* 可选，圆角更好看 */
   }
   
   /* 鼠标 hover 时也可以有轻微蓝色反馈 */

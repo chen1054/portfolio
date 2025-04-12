@@ -119,7 +119,7 @@ footer a {
     /* 可选，增加轻微背景感 */
     padding: 6px 12px;
     /* 控制文字与边框的间距：上下6px，左右12px */
-    border-radius: 2px;
+    border-radius: 5px;
     /* 可选，圆角更好看 */
 }
 
