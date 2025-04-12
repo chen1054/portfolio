@@ -45,7 +45,7 @@ footer a{
   background-color: #d4cf3c; /* 与 hover/active 保持一致的高可见背景色 */
   border-color: #d4cf3c;
   color: #000; /* 保持文字颜色对比度 */
-  outline: 5px solid  #e994b9; /* 添加明显的外框，辅助视觉提示 */
+  outline: 5px solid  #409BFF; /* 添加明显的外框，辅助视觉提示 */
   outline-offset: 3px; /* 让外框略微离开按钮边缘，更易辨识 */
 }
 
